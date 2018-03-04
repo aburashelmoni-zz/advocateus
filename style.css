@@ -1,0 +1,457 @@
+a{
+	text-decoration: none;
+}
+.header-area{
+	padding-bottom: 30px;
+	padding-top: 25px;
+}
+
+.main-menu>.bg-light{
+	background: #FFF !important;;
+}
+.navbar-brand {
+	font-size: 25px;
+	color: #111111;
+	text-transform: uppercase;
+	padding-right: 10%;
+}
+
+.active {
+	
+	text-transform: uppercase !important;
+	color: #111111 !important;
+	border-bottom: 5px solid #e8bf5d !important;
+
+}
+.nav-item{
+	text-transform: uppercase;
+	color: #111111;
+	border-bottom: 5px solid transparent;
+	padding:0px 20px;
+}
+ .nav-item:hover{
+	border-bottom: 5px solid #e8bf5d;
+
+}
+
+.nav-item:last-child{
+	padding-right: 0px;
+}
+.navbar-toggler{
+	background: #e8bf5d;
+}
+.header-btm{
+	background-image: url(images/header-bg.png);
+	background-size:100% 100%;
+	background-position: top left;
+	background-repeat: no-repeat;
+	padding-top: 600px;
+	padding-bottom: 145px;
+}
+
+.header-btm h1{
+	color: #FFF;
+	border-left: 2px solid #e8bf5d;
+	padding-left: 15px;
+	font-size: 65px;
+	text-transform: capitalize;
+}
+.header-btm h6{
+	color: #FFF;
+	padding-left: 15px;
+	font-size: 31px;
+	border-left: 2px solid #e8bf5d;
+	margin-top: -8px;
+	text-transform: capitalize;
+}
+.header-btm a {
+	padding: 15px 45px;
+	display: block;
+	background-color: #e8bf5d;
+	border-radius: 30px;
+	font-size: 16px;
+	color: #111111;
+	text-align: center;
+	text-transform: capitalize;
+	text-decoration: none;
+	margin-top: 37px;
+}
+.header-btm a:hover {
+	font-weight: 500;
+}
+.aboutus-area{
+	padding-top: 100px;
+}
+.single-aboutus{
+	border-left: 2px solid #e8bf5d;
+	padding-left: 15px;
+}
+.single-aboutus h3{
+	font-size: 31px;
+	color: #111111;
+
+}
+.single-aboutus p{
+	font-size: 21px;
+	color: #666666;
+	margin-top: 30px;
+	margin-bottom: 65px;
+}
+.single-history h5{
+	font-size: 21px;
+	color: #111111;
+	margin-bottom: 34px;
+	
+}
+.single-history h6{
+	font-size: 21px;
+	color: #111111;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.single-history p{
+	font-size: 16px;
+	color: #111111;
+	margin-bottom: 30px;
+	
+}
+.expertise h5{
+	font-size: 21px;
+	color: #111111;
+	margin-bottom: 34px;
+	
+}
+.expertise p{
+	font-size: 14px;
+	color: #111111;
+	margin-bottom: 30px;
+	line-height: 30px;
+}
+.practis-area{
+	background: #111111;
+	padding-top:100px;
+	padding-bottom: 95px;
+}
+.practic-header {
+	border-left: 2px solid #e8bf5d;
+	padding-left: 15px;
+}
+.practic-header h3{
+	font-size: 31px;
+	color: #ffffff;
+
+}
+.practic-header p{
+	font-size: 21px;
+	color: #ffffff;
+	margin-top: 30px;
+}
+.single-practis span{
+	font-size: 21px;
+	padding-left: 27px;
+	color: #ffffff;
+	
+}
+.single-practis h4{
+	color: #e8bf5d;
+	font-size:45px;
+	float: left;
+}
+.single-practis p{
+	color: #fff;
+	font-size:14px;
+	padding-left: 82px;
+	padding-top: 25px;
+}
+.single-practis{
+	width: 88%;
+	margin-top: 67px;
+}
+.our-attorney-area{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background: #fff;
+}
+.single-attorney{
+	border-left: 2px solid #e8bf5d;
+	padding-left: 15px;
+}
+.single-attorney h3{
+	font-size: 31px;
+	color: #111111;
+}
+.single-attorney p{
+	font-size: 21px;
+	color: #666;
+	margin-top: 30px;
+	margin-bottom: 70px;
+}
+.attorney-details{
+
+}
+.attorney-details img{
+	width: 100%;
+	height: auto;
+}
+.attorney-details h5{
+	font-size: 21px;
+	color: #111111;
+	text-transform: capitalize;
+	margin-top: 30px;
+	margin-bottom: 5px;
+}
+.attorney-details h6{
+	font-size: 14px;
+	color: #666;
+	text-transform: capitalize;
+
+}
+.client-say-area{
+	background: #111111;
+	padding-top: 100px;
+	padding-bottom: 105px;
+}
+.client-says-header{
+	border-left: 2px solid #e8bf5d;
+	padding-left: 15px;
+}
+.client-says-header h3{
+	font-size: 31px;
+	color: #fff;
+}
+.client-says-header p{
+	font-size: 21px;
+	color: #fff;
+	margin-top: 30px;
+	margin-bottom: 70px;
+}
+.box-img{
+	position: relative;
+	background:#e8bf5d;
+	display: block;
+	height: 305px;
+	width: 370px;
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+.box-img img{
+	width: 370px;
+	height:305px;
+	position: absolute;
+	top:-20px;
+	left: -20px;
+		
+}
+.single-client h4{
+	font-size: 30px;
+	color: #717070;
+	padding-right: 15px;
+	float: left;
+	padding-left: 20px;
+	
+}
+.single-client p{
+	font-size: 14px;
+	color: #fff;
+	padding-left: 65px;
+	padding-bottom: 40px;
+	padding-top: 15px;
+}
+
+.single-client h5{
+	font-size: 21px;
+	color: #fff;
+	padding-left: 65px;
+}
+.single-client h6{
+	font-size: 14px;
+	color: #fff;
+	padding-left: 65px;
+}
+.single-client{
+	padding-left: 20px;
+}
+
+.publication-area{
+	background: #ffffff;
+	padding-top:100px;
+	padding-bottom: 70px;
+}
+.recent-publication {
+	border-left: 2px solid #e8bf5d;
+	padding-left: 15px;
+}
+.recent-publication h3{
+	font-size: 31px;
+	color: #111111;
+
+}
+.recent-publication p{
+	font-size: 21px;
+	color: #666666;
+	margin-top: 30px;
+}
+.single-publication{
+	padding-top: 70px;
+}
+.single-publication img{
+	width: 100%;
+}
+.single-publication h1{
+	font-size: 21px;
+	color: #111111;
+	text-transform: capitalize;
+	padding-top: 22px;
+}
+.single-publication h6{
+	font-size: 16px;
+	color: #111111;
+	font-style: italic;
+}
+.single-publication span{
+	font-size: 16px;
+	color: #666666;
+	font-style: italic;
+	float: right;	
+}
+.single-publication p{
+	font-size: 14px;
+	color: #666666;	
+	padding-top: 25px;
+	line-height: 25px;
+}
+.single-publication h5{
+	font-size: 16px;
+	color: #666666;
+}
+.single-publication h5{
+	font-size: 16px;
+	color: #666666;
+	border-bottom: 2px solid #e8bf5d;
+	padding-bottom: 30px;
+}
+
+.question-area{
+	background: #111111;
+	padding-top:100px;
+	padding-bottom: 165px;
+}
+.asked-question {
+	border-left: 2px solid #e8bf5d;
+	padding-left: 15px;
+}
+.asked-question h3{
+	font-size: 31px;
+	color: #ffffff;
+
+}
+.asked-question p{
+	font-size: 21px;
+	color: #ffffff;
+	margin-top: 30px;
+}
+.single-question h5{
+	font-size: 14px;
+	color: #e8bf5d;
+	padding-top: 95px;
+	padding-bottom: 15px; 
+	border-bottom: 1px solid #e8bf5d;
+}
+.single-question span{
+	float: right;
+}
+.single-question h6{
+	font-size: 14px;
+	color: #ffffff;
+	padding-top: 10px; 
+	padding-bottom: 10px; 
+	border-bottom: 1px solid #e8bf5d;
+}
+.single-question p{
+	font-size: 14px;
+	color: #111111;
+	background: #e8bf5d;
+	display: block;
+	padding: 80px 40px;
+	margin-top: 95px;
+	border-radius: 5px;
+}
+.contact-area{
+	padding-top: 100px;
+	padding-bottom: 77px;
+	background: #ffffff;
+}
+.contact {
+	border-left: 2px solid #e8bf5d;
+	padding-left: 15px;
+}
+.contact h3{
+	font-size: 31px;
+	color: #111111;
+
+}
+.contact p{
+	font-size: 21px;
+	color: #666666;
+	margin-top: 30px;
+}
+.message-area{
+	margin-top: 60px;
+	-moz-box-shadow:    2px 2px 2px 2px #ccc;
+  	-webkit-box-shadow: 2px 2px 2px 2px #ccc;
+  	box-shadow:         2px 2px 2px 2px #ccc;
+  	padding: 40px 35px;
+}
+.form-control {
+    border: 0;
+    border-radius: 0;
+}
+.form-group input{
+	border-bottom: 1px solid #111;	
+}
+.form-group textarea{
+	border-bottom: 1px solid #111;	
+}
+.single-message button{
+	background: #e8bf5d;
+	border:1px solid #e8bf5d;
+	border-radius: 25px;
+	color: #111;
+	padding: 10px 28px;
+	margin-top: 30px;
+}
+.single-message>.box-img{
+	position: relative;
+	background:#e8bf5d;
+	display: block;
+	height: 360px;
+	width: 370px;
+
+}
+
+.footer-area{
+	background: #111; 
+	padding-top: 30px;
+	padding-bottom: 35px;
+}
+.single-footer p{
+	font-size: 16px;
+	color: #fff;
+
+}
+.single-footer span{
+	font-size: 16px;
+	color: #b5b5b5;
+
+}
+.social-icon p{
+	font-size: 16px;
+	color: #fff;
+	float: right;
+
+}
+.social-icon span{
+	padding: 0px 10px;
+
+}
